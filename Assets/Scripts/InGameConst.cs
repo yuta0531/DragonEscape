@@ -11,7 +11,7 @@ public class InGameConst : MonoBehaviour
     public const float SpriteChangeIntervalTime = 0.1f;
 
     //Enemyが移動するスピード
-    public const float EnemyMoveSpeed = -280f;
+    public const float EnemyMoveSpeed = -500f;
 
     //Enemyが生成されるインターバル秒
     public const float generationInterval = 0.8f;
@@ -26,5 +26,5 @@ public class InGameConst : MonoBehaviour
     public const　int poolSize = 5;
 
     //背景が動くスピード
-    public const float BackSpeed = 0.5f;
+    public const float BackSpeed = 0.4f;
 }
